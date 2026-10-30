@@ -30,4 +30,4 @@ Complete five recovery lines using supplied hypothetical incident: signals, reco
 
 ## Evidence
 
-Follow assessment's three tasks. Commit fixes to fork and submit one PDF with fork URL, real screenshots, original failure, corrected diff, passing static checks and requested reasoning. At least one screenshot per task. Written reports require manual grading. No PR or video. Do not run production workflows or expose secrets. Static PASS proves only exercise contract.
+Follow assessment's three tasks. Submit one PDF with real screenshots, original failure, corrected diff, passing static checks and requested reasoning. Grade only the three tasks and requested evidence; repository/fork URLs and branch names are not required or graded. Annotated-tag and matching-hash proof remain Task 1 technical evidence, not submission metadata. At least one screenshot per task. Written reports require manual grading. No PR or video. Do not run production workflows or expose secrets. Static PASS proves only exercise contract.
